@@ -2,38 +2,138 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": " What is the primary purpose of a process flow diagram? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+         "a": "To show the sequence of steps in a process ",
+        "b": "To display the organization chart of a company ",
+        "c": "To illustrate the layout of a manufacturing plant ",
+        "d": "To highlight the skills of team members"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which symbol is commonly used to represent a process step in a process flow diagram? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Rectangle  ",
+        "b": "Circle ",
+        "c": "Diamond ",
+        "d": "Arrow"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What type of process flow diagram is used to show the overall process flow and is often used for high-level planning and communication? ",
+      "answers": {
+        "a": "Detailed process flow diagram ",
+        "b": "Top-down process flow diagram ",
+        "c": "Swimlane process flow diagram ",
+        "d": "Macro process flow diagram"
       },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "What is the term for the lines that connect the symbols in a process flow diagram to show the flow of the process? ",
+      "answers": {
+        "a": "Arrows ",
+        "b": "Lines ",
+        "c": "Connectors ",
+        "d": "Flows"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "Which of the following is NOT a common component of a process flow diagram? ",
+      "answers": {
+        "a": "Process steps ",
+        "b": "Decision points ",
+        "c": "Inputs and outputs ",
+        "d": "Organizational charts"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "What is the purpose of a decision point (diamond shape) in a process flow diagram?",
+      "answers": {
+        "a": "To show a process step  ",
+        "b": "To indicate a decision or branching point in the process  ",
+        "c": "To highlight a problem area  ",
+        "d": "To show the end of a process"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	
+		{
+      "question": "Which type of process flow diagram is used to show the responsibilities of different teams or individuals in a process? ",
+      "answers": {
+        "a": "Swimlane process flow diagram  ",
+        "b": "Detailed process flow diagram  ",
+        "c": "Macro process flow diagram   ",
+        "d": "Top-down process flow diagram"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "What is the benefit of using standardized symbols in a process flow diagram?  ",
+      "answers": {
+        "a": "To make the diagram more visually appealing   ",
+        "b": "To ensure consistency and clarity in the diagram   ",
+        "c": "To confuse non-technical stakeholders    ",
+        "d": "To make the diagram more complex"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "What should be included in the title block of a process flow diagram?   ",
+      "answers": {
+        "a": "Process name and date    ",
+        "b": "Process owner and department   ",
+        "c": "Revision number and approval signature     ",
+        "d": "All mentioned"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "Why is it important to review and update a process flow diagram regularly?    ",
+      "answers": {
+        "a": "To ensure that the diagram remains visually appealing     ",
+        "b": "To reflect changes to the process and ensure that the diagram remains accurate    ",
+        "c": "To confuse team members and stakeholders      ",
+        "d": "To delay process improvements"
+      },
+     
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
+  
+  
+  
+  
+  
+  
+  
+  
   ]
 }
