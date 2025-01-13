@@ -2,38 +2,136 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the primary goal of a well-designed process flow diagram? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+         "a": "To impress stakeholders with its complexity ",
+        "b": " To provide a clear understanding of the process steps and flows ",
+        "c": "To confuse team members and stakeholders ",
+        "d": "To delay process improvements"
+		
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A process flow diagram is effective if it: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Is visually appealing but lacks clarity ",
+        "b": "Is complex and difficult to understand ",
+        "c": "Clearly communicates the process steps and flows ",
+        "d": "Is only understood by the process owner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is a key benefit of a well-designed process flow diagram in terms of communication? ",
+      "answers": {
+        "a": "It only communicates with team members ",
+        "b": "It only communicates with stakeholders ",
+        "c": "It facilitates clear communication among team members and stakeholders ",
+        "d": "It hinders communication among team members and stakeholders"
       },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "An effective process flow diagram should: ",
+      "answers": {
+        "a": "Omit unnecessary process steps ",
+        "b": "Include unnecessary process steps ",
+        "c": "Focus on the process owner's tasks only ",
+        "d": "Ignore the inputs and outputs of the process"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "What is a common issue with process flow diagrams that are not effective? ",
+      "answers": {
+        "a": "They are too simple ",
+        "b": "They are too complex ",
+        "c": "They lack standardization ",
+        "d": "They are only used by the process owner"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+  
+  {
+      "question": "An effective process flow diagram should be: ",
+      "answers": {
+        "a": "Only used for complex processes ",
+        "b": "Only used for simple processes ",
+        "c": "Used for all processes, regardless of complexity ",
+        "d": "Not used at all"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "What is a key benefit of a well-designed process flow diagram in terms of process improvement?  ",
+      "answers": {
+        "a": "It hinders process improvement ",
+        "b": "It facilitates process improvement by identifying areas for improvement ",
+        "c": "It only focuses on the process owner's tasks  ",
+        "d": "It ignores the inputs and outputs of the process"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": " An effective process flow diagram should:   ",
+      "answers": {
+        "a": "Only show the current process  ",
+        "b": "Only show the ideal process  ",
+        "c": "Show both the current and ideal processes  ",
+        "d": "Not show any processes"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "What is a common use of an effective process flow diagram? ",
+      "answers": {
+        "a": "To train new team members  ",
+        "b": "To confuse stakeholders  ",
+        "c": "To delay process improvements  ",
+        "d": "To only show the process owner's tasks"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "An effective process flow diagram is essential for:  ",
+      "answers": {
+        "a": "Only documenting the process  ",
+        "b": "Only improving the process   ",
+        "c": "Both documenting and improving the process   ",
+        "d": "Neither documenting nor improving the process"
+      },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
+  
+  
+  
+  
+  
   ]
 }
