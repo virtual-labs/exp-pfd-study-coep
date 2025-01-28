@@ -1,6 +1,5 @@
-## Theory
-
-Preparing process flow diagram is an expert’s job and has to be done very carefully. Here is a detailed process, its pros and cons, effective matrix, and teams involved while preparing a process flow diagram for a process automation project :
+Preparing process flow diagram is an expert’s job and has to be done very carefully. Here is a detailed process, its pros and cons, effective matrix, 
+and teams involved while preparing a process flow diagram for a process automation project :
 
 ###### Sample assignment Process : 
 Preparing a Process Flow Diagram for a Process Automation Project
@@ -51,12 +50,16 @@ Preparing a Process Flow Diagram for a Process Automation Project
 
 ![*Process_Flow_Diagram*](images/Effective_matrix.png)
 
-To make process flow diagram flawless the  explicit list of care to be taken while preparing a Process Flow Diagram (PFD) for a process automation project is as follws :
+To make process flow diagram flawless the  explicit list of care to be taken while preparing a Process Flow Diagram (PFD) for a process automation 
+project is as follws :
 
 ###### I. Understanding the Process
--	Familiarize yourself with the process: Before creating a PFD, ensure you have a thorough understanding of the process, including its inputs, outputs, and all the steps involved.
--	Gather information from various sources : Collect data from operators, maintenance personnel, engineers, and other stakeholders to ensure accuracy and completeness.
--	Review existing documentation: Study existing process descriptions, flowcharts, and P&IDs (Piping and Instrumentation Diagrams) to gain a deeper understanding of the process.
+-	Familiarize yourself with the process: Before creating a PFD, ensure you have a thorough understanding of the process, including its inputs, outputs, 
+and all the steps involved.
+-	Gather information from various sources : Collect data from operators, maintenance personnel, engineers, and other stakeholders to ensure accuracy and 
+completeness.
+-	Review existing documentation: Study existing process descriptions, flowcharts, and P&IDs (Piping and Instrumentation Diagrams) to gain a deeper 
+understanding of the process.
 	
 ###### II. PFD Structure and Layout
 -	Use a standard template or format : Establish a consistent structure and layout for your PFD to ensure clarity and ease of understanding.
@@ -79,7 +82,8 @@ To make process flow diagram flawless the  explicit list of care to be taken whi
 -	Highlight potential hazards: Identify and highlight potential hazards, such as toxic substances, high temperatures, or explosive environments.
 
 ###### VI. Control and Monitoring
--	Indicate control systems and strategies : Show the control systems and strategies used to regulate the process, including feedback loops and control algorithms.
+-	Indicate control systems and strategies : Show the control systems and strategies used to regulate the process, including feedback loops and 
+control algorithms.
 -	Specify monitoring and alarm points : Identify monitoring points and alarm conditions to ensure process safety and efficiency.
 
 ###### VII. Error Prevention and Quality Control
@@ -87,8 +91,10 @@ To make process flow diagram flawless the  explicit list of care to be taken whi
 -	Include quality control checks : Show quality control checks and inspections to ensure process quality and product integrity.
 
 ###### VIII. Review and Validate
--	Review the PFD with stakeholders: Review the PFD with operators, maintenance personnel, engineers, and other stakeholders to ensure accuracy and completeness.
+-	Review the PFD with stakeholders: Review the PFD with operators, maintenance personnel, engineers, and other stakeholders to ensure accuracy and 
+completeness.
 -	Validate the PFD against actual process data : Validate the PFD against actual process data to ensure it accurately represents the process.
 
-By following these guidelines, you can create a comprehensive and accurate Process Flow Diagram that effectively communicates the process and its requirements to all stakeholders involved in the process automation project.
+By following these guidelines, you can create a comprehensive and accurate Process Flow Diagram that effectively communicates the process and its 
+requirements to all stakeholders involved in the process automation project.
 
