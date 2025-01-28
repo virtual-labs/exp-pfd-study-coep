@@ -1,5 +1,3 @@
-## References
-
 ###### Books :
 
 -	Turton, R., Bailie, R. C., Whiting, W. B., & Shaeiwitz, J. A. (2018). Analysis, Synthesis, and Design of Chemical Processes. 5th ed. Upper Saddle River, NJ : Prentice Hall. ISBN 978-0-13-469424-6.
