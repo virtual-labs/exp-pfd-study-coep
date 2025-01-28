@@ -62,8 +62,8 @@ Add relevant process information to the PFD, including:
 -	Material balances
 	
 Use standard notation and units, such as :
--	SI units (e.g., kg/h, °C, bar)
--	Imperial units (e.g., lb/h, °F, psi)
+-	SI units (e.g., kg/h, degree C, bar)
+-	Imperial units (e.g., lb/h, degree F, psi)
 	
 Step 6 : Review and Validate
 Review the PFD for accuracy and completeness, including:
