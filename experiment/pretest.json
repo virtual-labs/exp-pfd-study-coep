@@ -64,11 +64,11 @@
     },
 	
 	{
-      "question": "What is the purpose of a decision point (diamond shape) in a process flow diagram?",
+      "question": "What is the purpose of a diamond shape in a process flow diagram?",
       "answers": {
-        "a": "To show a process step  ",
-        "b": "To indicate a decision or branching point in the process  ",
-        "c": "To highlight a problem area  ",
+        "a": "To show a process step",
+        "b": "To indicate a decision or branching point in the process",
+        "c": "To highlight a problem area",
         "d": "To show the end of a process"
       },
      
