@@ -13,11 +13,3 @@ Journal Articles:
 
 -	American National Standards Institute (ANSI). (2019). ANSI/ISA-5.1-2009 : Instrumentation Symbols and Identification. Research Triangle Park, NC: ISA.
 -	International Organization for Standardization (ISO). (2018). ISO 10628:2018 : Flow Diagrams for Process Plants. Geneva : ISO.
-	
-###### Online Resources :
-
--	Chemical Engineering. (n.d.). Process Flow Diagrams. Retrieved from https://www.chemengonline.com/process-flow-diagrams/
--	Process Flow Diagram. (n.d.). Retrieved from https://www.processflowdiagram.com/
--	Thesis and Dissertations:
-
--	Lee, S. (2020). Development of a Process Flow Diagram for a Chemical Plant. Master's Thesis, Seoul National University, South Korea.
