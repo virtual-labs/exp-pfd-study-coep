@@ -1,4 +1,8 @@
-
+function updateDateTime() {
+      const now = new Date();
+      const formatted = now.toLocaleString(); // e.g. "5/5/2025, 10:23:45 AM"
+      $('#dateTime').text(formatted);
+    }
 function result(){
 	console.log(resultJson);
 	$("#result").prop("hidden",true);
@@ -277,7 +281,7 @@ timerMasterJson.result=$("#counter").text();
 							     $("#DiSorTimer").html(str1);
 		}
 
-		
+	updateDateTime();	
 
 		
 		
